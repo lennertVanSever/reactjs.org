@@ -56,3 +56,10 @@ permalink: community/courses.html
 - [Road to React](https://www.roadtoreact.com/) - Your journey to master React in JavaScript.
 
 - [Epic React](https://epicreact.dev/) - Confidently Ship Well-Architected Production Ready React Apps Like a Pro
+
+## Paid Physical Courses {#paid-physical-courses}
+
+- [React.js Training in New York](https://www.simplilearn.com/react-js-training-course-new-york-city) The react training in New York City from Simplilearn can teach you the foundations of React.
+- [React JS Course: Melbourne](https://generalassemb.ly/education/react-development/melbourne) Expand your JavaScript programming skills, and boost your profile at work
+- [Naresh Technologies](https://nareshit.in/reactjs-training/) Learn React in India
+- [React Training Belgium](https://www.react-training.be/) Become a React developer in 3 intensive days. Anyone from anywhere can join since accomodation is included
